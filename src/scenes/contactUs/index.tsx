@@ -2,7 +2,6 @@ import { SelectedPage } from "@/shared/type";
 import { motion } from "framer-motion";
 import { useForm } from "react-hook-form";
 import ContactUsPageGraphic from "@/assets/ContactUsPageGraphic.png";
-import HomePageText from "@/assets/HomePageText.png";
 import HText from "@/shared/HText";
 
 
@@ -143,7 +142,6 @@ function ContractUs({setSelectedPage}: Props) {
             }}
           >
             <div className="w-full md:before:content-evolvetext before:absolute before:-bottom-20 before:-right-10 before:z-[-1]">
-                {/* <img alt="home-page-text" src={HomePageText} /> */}
                 <img className="w-full" alt="contact-us-page-graphic" src={ContactUsPageGraphic} />
             </div>
             
