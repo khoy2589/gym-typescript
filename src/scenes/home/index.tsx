@@ -3,7 +3,7 @@ import ActionButton from "@/shared/ActionButton";
 import { SelectedPage } from "@/shared/type";
 import HomePageText from "@/assets/HomePageText.png";
 import HomePageGraphic from "@/assets/HomePageGraphic.png";
-import SponsorRedBull from "@/assets/SponSorRedBull.png";
+import SponsorRedBull from "@/assets/SponsorRedBull.png";
 import SponsorForbes from "@/assets/SponSorForbes.png";
 import SponsorFortune from "@/assets/SponSorFortune.png";
 import AnchorLink from "react-anchor-link-smooth-scroll";
